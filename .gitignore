@@ -33,3 +33,4 @@ debug/
 *.exe
 *.out
 *.app
+.idea
